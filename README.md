@@ -1,4 +1,4 @@
-# Make a Deal
+# Background Color Change
 
 Simple React app that causes the background to change color when a button is pressed.
 
